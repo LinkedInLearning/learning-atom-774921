@@ -14,11 +14,9 @@ Most of these options are going to be under the edit menus under lines.
 
 You can indent and outdent content by selecting it and then using the command key (control on a pc) and then the brackets. The right bracket indents the content and the left one outdents the content.
 
-There's another option that will try to auto indent some content for you. First you have to make a selection and then you can
+There's another option that will try to auto indent some content for you. First you have to make a selection and then you can go to EDIT:LINES:AUTO INDENT. It does a pretty decent job.
 
-You can also take a line and move it around with command keys. That can be useful in lists or other items where you want to control the order.
-
-To do that, you use command-control (that's just the control key on a PC) and then use the up and down arrows.
+You can also take a line and move it around with command keys. That can be useful in lists or other items where you want to control the order. To do that, you use command-control (that's just the control key on a PC) and then use the up and down arrows.
 
 You can duplicate a line with command-shift-d (control-shift-d on a PC)
 
