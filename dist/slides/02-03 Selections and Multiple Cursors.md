@@ -21,7 +21,7 @@ To select to the beginning of the document, you can use command-shift-up. This i
 
 Command-A (control-a on a PC) lets you choose the entire document.
 
-If you press command-l (control-l on a PC) it will select the whole line.
+If you press command-L (control-L on a PC) it will select the whole line.
 
 
 ## Multiple Cursors
