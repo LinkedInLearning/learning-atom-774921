@@ -27,8 +27,3 @@ To view all of the bookmarks in a list, just hit Control-F2 on a PC or Mac.
 
 # Conclusion
 Of course you can also navigate to content by finding, but that's a little more involved than simply navigating your document. We'll take a look at the find and replace functionality in the next video.
-
-
-
-Select to/from bookmarks
-https://github.com/atom/bookmarks/pull/91
