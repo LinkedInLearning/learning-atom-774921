@@ -24,13 +24,11 @@ Another good one to check, for web developers, is the tree view package. It cont
 
 If you have any packages installed, you can look under a community packages section. Here are some of my favorite packages.
 
-language-postcss
-linter
-linter-jshint
-open-in-browser
-open-terminal-here
-sort-lines
-pigments
+- platformio-ide-terminal
+- language-postcss
+- open-in-browser
+- open-terminal-here
+- pigments
 
 # Conclusion
 Other than installing and basic customization, packages are the main way that you control how the application works.
