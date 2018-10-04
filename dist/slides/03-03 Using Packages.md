@@ -18,8 +18,6 @@ For example, I have a problem with the wrap-guide. It sort of shows you a vertic
 
 Also, if there are some languages that you're not using, then you can turn those languages off. For example, if you don't use Atom to write objective-c code, then turn that off.
 
-A lot of these packages will let you modify their functionality through settings. For example, one of the modifications I've made is under the tabs package. That's because right now, if I click on a file, it opens in a new tab even if I don't want it to. So if you turn this on, the tabs will only show if you double click on the file. You can also choose to not show the tab bar unless there is more than one document open.
-
 Another good one to check, for web developers, is the tree view package. It controls what you see in the the file tree view. You can for example Hide VCS ignored files, so that if you have a gitignore file, any matches in that file will hide. You can also ask for folders to be sorted at the top of the tree.
 
 If you have any packages installed, you can look under a community packages section. Here are some of my favorite packages.
