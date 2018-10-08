@@ -1,4 +1,4 @@
-#Learning Atom
+# Learning Atom
 
 This is the repository for my course Learning Atom. The full course is available on LinkedIn Learning.
 
