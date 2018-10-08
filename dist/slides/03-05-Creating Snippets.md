@@ -9,6 +9,7 @@ Atom comes with a number of excellent snippets that you can use. As I mentioned 
 
 This functionality is available through the syntax package. You can see what snippets available to you.
 
+```
 '.text.html':
   'viewport':
     'prefix': 'viewp'
@@ -24,7 +25,7 @@ This functionality is available through the syntax package. You can see what sni
       <li class="${1:item}">$4</li>
     </ul>
     '''
-
+```
 
 # Conclusion
 Snippets are one of the ultimate customizations in Atom, you can really.
