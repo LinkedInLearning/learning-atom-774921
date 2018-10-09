@@ -24,4 +24,6 @@ Customizing Themes
 
 - [ ] Change the font size. You may have to reload the window.
 
-- [ ] Feel free to play around with the theme and remember that if you mess something up, you can just uninstall and reinstall the theme. As a measure of last resort, you can delete the .atom folder inside your users folder using a terminal to reset Atom to factory settings.
+- [ ] Feel free to play around with the theme and remember that if you mess something up, you can just uninstall and reinstall the theme. As a measure of last resort, you can delete the .atom folder inside your users folder using a terminal to reset Atom to factory settings. 
+
+- [ ] You can also use a package to create your own Syntax theme. These are the theme atom uses to display your code. Go to `packages: Package Generator: Create Syntax Theme`
