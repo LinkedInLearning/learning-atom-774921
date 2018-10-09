@@ -30,16 +30,7 @@ You can modify the way Atom looks through settings in themes. There are two type
 
 - [ ] Atom ships with just a handful of themes. but you can download a lot more in the install section, just switch to the themes tab.
 
-Seti-ui
-Seti-syntax
-
-
-You can also easily customize the look and feel of your experience by going to the Atom menu and select Open your Stylesheet. That pulls up a styles.less document where you can add your own code.
-
-.tree-view {
-  font-size: 1.2rem;
-}
-
-If you want to know what styles you need to change,
+- [ ] Search for isotope-light, isotope-ui, change settings.
 
 # Conclusion
+There are thousands of freely available in Atom, but there's a lot more that you can do with them. Let's take a look at that in the next video.
